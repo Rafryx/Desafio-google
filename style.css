@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  
+    overflow-x: hidden
+}
+
+ul li {
+    margin-left: 25px;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.super {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    display: flex;
+    list-style: none;
+    margin-left: 85%;
+    margin-top: 25px; 
+}
+
+.img_icone img { 
+    width: 24px;
+    display: inline-block;
+  
+}
+
+
+.img_perfil img {
+   width: 32px;
+   display: inline-block;
+   margin-right: 25px;
+}
+
+
+section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 165px;
+}
+
+section #lupa {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 580px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 25px; 
+}
+
+section #google {
+    padding: 0px 16px;
+    background-color: #f8f9fa;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    margin-left: 42%;
+    margin-top: 35px;
+}
+
+section #sorte {
+    padding: 0px 16px;
+    background-color: #f8f9fa;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+   
+   
+}
+
+section #google:hover {
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
+
+section #sorte:hover {
+        box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+        background-color: #f8f9fa;
+        border: 1px solid #dadce0;
+        color: #202124;
+}
+.rodape {
+    background-color: #f2f2f2;
+    margin-top: 320px;
+    height: 151px;
+    
+}
+
+.brasil{
+    font-size: 15px;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+
+.cont_final ul li {
+    font-size: 14px;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+
+
+
+
